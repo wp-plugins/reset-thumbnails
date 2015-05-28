@@ -3,7 +3,7 @@
  * Plugin Name: Reset Thumbnails
  * Version: 1.0
  * Plugin URI: http://wptrack.net
- * Description: Allows you to set the default thumbnails for your all image attachments or aplly for your all post thumbnail.
+ * Description: Allows you to set the default thumbnails for your all image attachments or apply for your all post thumbnail.
  * Author: Kai
  * Author URI: http://wptrack.net
  * Requires at least: 4.0
