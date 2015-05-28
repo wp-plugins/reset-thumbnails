@@ -1,0 +1,31 @@
+.ajax-loading {
+    background: transparent url("../images/loading.gif") no-repeat center center;
+    height: 30px;
+    width: 30px;
+    display: none;
+    visibility: visible;
+}
+.js-reset-action {
+    float: left;
+    margin-right: 20px;
+}
+
+#Reset_Thumbnails_settings p.submit {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#Reset_Thumbnails_settings .button-primary {
+    margin-left: 10px;
+}
+
+.p-result span {
+    color:green;
+}
+.p-result span.error,.p-notice.error{
+    color:red;
+}
+
+.p-notice{
+    font-weight: bold;
+}
