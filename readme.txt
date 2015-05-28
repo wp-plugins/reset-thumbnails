@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Reset Thumbnails allows you to set the default thumbnails for your all image attachments or aplly for your all post thumbnail. This is very handy if you want to reset your all images attachmented.
+Reset Thumbnails allows you to set the default thumbnails for your all image attachments or apply for your all post thumbnail. This is very handy if you want to reset your all images attachmented.
 Extra you can all media attached to using your attached ID and very simple to use.
 
 == Installation ==
